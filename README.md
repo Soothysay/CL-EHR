@@ -1,6 +1,6 @@
 # CL-EHR
 
-This is the official code repository of the paper titled "Continually-Adaptive Representation Learning Framework for Time-Sensitive Healthcare Applications" appearing in CIKM 2023.
+This is the official code repository of the paper titled "Continually-Adaptive Representation Learning Framework for Time-Sensitive Healthcare Applications" appearing in [CIKM 2023](https://dl.acm.org/doi/10.1145/3583780.3615464).
 ![alt text](https://github.com/soothysay/cl-ehr/blob/main/model_figure.PNG?raw=true)
 ## Instructions
 
